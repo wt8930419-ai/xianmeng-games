@@ -1,0 +1,68 @@
+{
+  "source_page": "https://www.taptap.cn/app/1007745",
+  "retrieved_on": "2026-11-01",
+  "images": [
+    {
+      "file": "icon.webp",
+      "url": "https://img-tc.tapimg.com/market/images/43a88d92cd3f85396fc690f246fe81cc.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1863490,
+      "source_file": "icon.png",
+      "original_bytes": 2513350,
+      "processing": "原尺寸无损 WebP，解码像素与原始 PNG 一致"
+    },
+    {
+      "file": "cover.webp",
+      "url": "https://img-tc.tapimg.com/market/images/e4cebc3420547e8b7e486ada1e7e32b2.png",
+      "width": 1472,
+      "height": 688,
+      "bytes": 1281476,
+      "source_file": "cover.png",
+      "original_bytes": 1837539,
+      "processing": "原尺寸无损 WebP，解码像素与原始 PNG 一致"
+    },
+    {
+      "file": "poster.webp",
+      "url": "https://img-tc.tapimg.com/market/images/Fg-oQXsSoozRgDade6UwdBmkHEgT.png",
+      "width": 848,
+      "height": 1272,
+      "bytes": 1250306,
+      "source_file": "poster.png",
+      "original_bytes": 1590515,
+      "processing": "原尺寸无损 WebP，解码像素与原始 PNG 一致"
+    },
+    {
+      "file": "screenshot-1.webp",
+      "url": "https://img-tc.tapimg.com/market/images/FkFuKUJ2JNqliY_Tttf4_m1eOF3e.png",
+      "width": 768,
+      "height": 1376,
+      "bytes": 1312766,
+      "source_file": "screenshot-1.png",
+      "original_bytes": 1702541,
+      "processing": "原尺寸无损 WebP，解码像素与原始 PNG 一致"
+    },
+    {
+      "file": "screenshot-2.webp",
+      "url": "https://img-tc.tapimg.com/market/images/FkwPpBiQc151cg9FWm2-4FsSHH6t.png",
+      "width": 768,
+      "height": 1376,
+      "bytes": 1360824,
+      "source_file": "screenshot-2.png",
+      "original_bytes": 1748168,
+      "processing": "原尺寸无损 WebP，解码像素与原始 PNG 一致"
+    },
+    {
+      "file": "screenshot-3.webp",
+      "url": "https://img-tc.tapimg.com/market/images/FrjIf9Ons560F6qgHfmOEKMq8Nsf.png",
+      "width": 768,
+      "height": 1376,
+      "bytes": 1358464,
+      "source_file": "screenshot-3.png",
+      "original_bytes": 1731985,
+      "processing": "原尺寸无损 WebP，解码像素与原始 PNG 一致"
+    }
+  ],
+  "taptap_logo": "沿用仓库官方 TapTap 白色标识 SVG，保持比例。",
+  "original_candidates": "项目 logs/1007745-originals，原始候选保留，发布图不裁切不缩放。"
+}
