@@ -1,10 +1,11 @@
 # 仙梦游戏官网
 
-仙梦游戏的独立官网仓库。根首页为游戏导航，游戏按 TapTap App ID 放入独立目录，目前展示《圣剑启示录》和《模拟三国城》。
+仙梦游戏的独立官网仓库。根首页为游戏导航，游戏按 TapTap App ID 放入独立目录，目前展示《贪婪地牢：冒险》《圣剑启示录》和《模拟三国城》。
 
 | 页面 | 目录 | 公开地址 |
 | --- | --- | --- |
 | 仙梦游戏官网 | `/` | https://wt8930419-ai.github.io/xianmeng-games/ |
+| 贪婪地牢：冒险 | `1007741/` | https://wt8930419-ai.github.io/xianmeng-games/1007741/ |
 | 圣剑启示录 | `1007745/` | https://wt8930419-ai.github.io/xianmeng-games/1007745/ |
 | 模拟三国城 | `818856/` | https://wt8930419-ai.github.io/xianmeng-games/818856/ |
 

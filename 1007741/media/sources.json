@@ -1,0 +1,64 @@
+{
+  "source_page": "https://www.taptap.cn/app/1007741",
+  "retrieved_on": "2026-11-06",
+  "images": [
+    {
+      "file": "icon.webp",
+      "url": "https://img-tc.tapimg.com/market/images/17d0e8aa3eeffd1cb3d6229d7a6c4874.jpg",
+      "width": 1440,
+      "height": 1440,
+      "original_file": "icon.jpg",
+      "bytes": 2307202
+    },
+    {
+      "file": "cover.webp",
+      "url": "https://img-tc.tapimg.com/market/images/af70fd9efb6a7d8010caf30ca6846adf.png",
+      "width": 1472,
+      "height": 688,
+      "original_file": "cover.png",
+      "bytes": 1168474
+    },
+    {
+      "file": "poster.webp",
+      "url": "https://img-tc.tapimg.com/market/images/ca553a0b6e3c8275181c11c439067f68.png",
+      "width": 848,
+      "height": 1272,
+      "original_file": "poster.png",
+      "bytes": 1230844
+    },
+    {
+      "file": "screenshot-1.webp",
+      "url": "https://img-tc.tapimg.com/market/images/d0808bc66e26383455db73a3bca8205e.png",
+      "width": 768,
+      "height": 1376,
+      "original_file": "screenshot-1.png",
+      "bytes": 1029874
+    },
+    {
+      "file": "screenshot-2.webp",
+      "url": "https://img-tc.tapimg.com/market/images/f9f296b592d277082548c2cad1260234.png",
+      "width": 768,
+      "height": 1376,
+      "original_file": "screenshot-2.png",
+      "bytes": 1125388
+    },
+    {
+      "file": "screenshot-3.webp",
+      "url": "https://img-tc.tapimg.com/market/images/82089a18a1999e1e116d250fff771e72.png",
+      "width": 768,
+      "height": 1376,
+      "original_file": "screenshot-3.png",
+      "bytes": 947158
+    },
+    {
+      "file": "screenshot-4.webp",
+      "url": "https://img-tc.tapimg.com/market/images/6e9f27d1bbc579c28b72bbdf4205c907.png",
+      "width": 768,
+      "height": 1376,
+      "original_file": "screenshot-4.png",
+      "bytes": 1106662
+    }
+  ],
+  "processing": "原始尺寸，无损 WebP；原件保存在项目 logs/1007741-originals。",
+  "taptap_logo": "沿用仓库现有 TapTap 白色标识 SVG。"
+}
